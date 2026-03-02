@@ -1,5 +1,25 @@
 # 推薦BEMANIチルドレンアーティスト一覧
-[Sakuzyo / 削除](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#sakuzyo--%E5%89%8A%E9%99%A4)
+* [Sakuzyo / 削除](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#sakuzyo--%E5%89%8A%E9%99%A4)
+* [Feryquitous（フェリキタス）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#feryquitous%E3%83%95%E3%82%A7%E3%83%AA%E3%82%AD%E3%82%BF%E3%82%B9)
+* [onoken](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#onoken)
+* [xi（サイ）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#xi%E3%82%B5%E3%82%A4)
+* [Masayoshi Iimori](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#masayoshi-iimori)
+* [Yuta Imai](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#yuta-imai)
+* [Ujico*（ウジコ）/ Snail's House](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#ujico%E3%82%A6%E3%82%B8%E3%82%B3-snails-house)
+* [lapix（ラピス）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#lapix%E3%83%A9%E3%83%94%E3%82%B9)
+* [Xceon（エクシオン）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#xceon%E3%82%A8%E3%82%AF%E3%82%B7%E3%82%AA%E3%83%B3)
+* [Maozon](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#maozon)
+* [PRIDASK（プライダスク）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#pridask%E3%83%97%E3%83%A9%E3%82%A4%E3%83%80%E3%82%B9%E3%82%AF)
+* [TORIENA](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#toriena)
+* [Dirty Androids](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#dirty-androids)
+* [かめりあ](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82)
+* [Zekk](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#zekk)
+* [KO3](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#ko3)
+* [Endorfin.](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#endorfin)
+* [t+pazolite（トパゾライト）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#tpazolite%E3%83%88%E3%83%91%E3%82%BE%E3%83%A9%E3%82%A4%E3%83%88)
+* [kidlit（キッドリット）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#kidlit%E3%82%AD%E3%83%83%E3%83%89%E3%83%AA%E3%83%83%E3%83%88)
+* [Nyolfen（ニョルフェン）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#nyolfen%E3%83%8B%E3%83%A7%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3)
+
 
 # Sakuzyo / 削除
 ## Twitter
