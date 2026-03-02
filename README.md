@@ -1,4 +1,10 @@
-# 推薦BEMANIチルドレンアーティスト一覧
+# 推薦音楽ゲームアーティスト一覧
+音楽ゲームに楽曲を提供しているアーティストの中で特に目立つ方を挙げています。
+
+
+※全員がDiverse Systemを関連したアーティストという訳ではないです。
+
+
 * [Sakuzyo / 削除](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#sakuzyo--%E5%89%8A%E9%99%A4)
 * [Feryquitous（フェリキタス）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#feryquitous%E3%83%95%E3%82%A7%E3%83%AA%E3%82%AD%E3%82%BF%E3%82%B9)
 * [onoken](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#onoken)
