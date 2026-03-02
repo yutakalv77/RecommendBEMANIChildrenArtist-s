@@ -1,5 +1,5 @@
 # 推薦BEMANIチルドレンアーティスト一覧
-
+[Sakuzyo / 削除](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#sakuzyo--%E5%89%8A%E9%99%A4)
 
 # Sakuzyo / 削除
 ## Twitter
