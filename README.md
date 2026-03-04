@@ -25,6 +25,7 @@
 * [t+pazolite（トパゾライト）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#tpazolite%E3%83%88%E3%83%91%E3%82%BE%E3%83%A9%E3%82%A4%E3%83%88)
 * [kidlit（キッドリット）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#kidlit%E3%82%AD%E3%83%83%E3%83%89%E3%83%AA%E3%83%83%E3%83%88)
 * [Nyolfen（ニョルフェン）](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#nyolfen%E3%83%8B%E3%83%A7%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3)
+* [MK / Shadw](https://github.com/yutakalv77/RecommendBEMANIChildrenArtist-s/blob/main/README.md#mk--shadw)
 
 
 # Sakuzyo / 削除
